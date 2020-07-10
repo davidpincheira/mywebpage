@@ -1,0 +1,12 @@
+{
+    "slug": "others",
+    "title": "Talleres, Diplomas y conferencias en las que nunca participe",
+    "description": "Otros logros academicos",
+    "items": [
+        {
+            "name": "TOEFL",
+            "degree": "en tus sueños",
+            "score": "640"
+        }
+    ]
+}

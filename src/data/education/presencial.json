@@ -1,0 +1,12 @@
+{
+    "slug": "presencial",
+    "title": "Formacion Academica",
+    "description": "Formacion academica, grados de estudio e instituciones a las que asisti",
+    "items": [
+        {
+            "name": "Universidad Adventista del Plata",
+            "degree": "Licenciatura en sistemas de la Informacion",
+            "date_end": "2019"
+        }
+    ]
+}

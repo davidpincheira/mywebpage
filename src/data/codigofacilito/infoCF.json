@@ -1,0 +1,93 @@
+{
+    "data": {
+    "email": "dpincheira92@gmail.com",
+    "username": "dpincheira92",
+    "certificates": [
+    {
+    "score": 9,
+    "code": "d7c51685-1272-42df-83ce-e4c6649c3916",
+    "title": "Curso Profesional de Backend"
+    }
+    ],
+    "articles": [ ],
+    "courses": [
+    {
+    "title": "Curso para crear Single Page Apps con React",
+    "progress": "0.0",
+    "url": "http://codigofacilito.com/courses/react-spa"
+    },
+    {
+    "title": "Curso de introducción y fundamentos de React",
+    "progress": "0.0",
+    "url": "http://codigofacilito.com/courses/react"
+    },
+    {
+    "title": "Curso para integrar Redux con React",
+    "progress": "0.0",
+    "url": "http://codigofacilito.com/courses/redux-react"
+    },
+    {
+    "title": "Desarrrolla una tienda en línea con Laravel y Vue",
+    "progress": "68.0",
+    "url": "http://codigofacilito.com/courses/laravel-tienda-en-linea"
+    },
+    {
+    "title": "Taller para consultar datos de una API con Vue",
+    "progress": "87.0",
+    "url": "http://codigofacilito.com/courses/rest-api-vue"
+    },
+    {
+    "title": "Curso para desarrollo de apps con React Native",
+    "progress": "0.0",
+    "url": "http://codigofacilito.com/courses/react-native"
+    },
+    {
+    "title": "Curso de Ionic desde 0",
+    "progress": "2.0",
+    "url": "http://codigofacilito.com/courses/ionic-v4"
+    },
+    {
+    "title": "Curso de introducción a Flutter",
+    "progress": "0.0",
+    "url": "http://codigofacilito.com/courses/introduccion-flutter"
+    },
+    {
+    "title": "Curso Profesional de Laravel",
+    "progress": "0.0",
+    "url": "http://codigofacilito.com/courses/laravel-profesional"
+    },
+    {
+    "title": "Curso Profesional de Python",
+    "progress": "14.0",
+    "url": "http://codigofacilito.com/courses/python-profesional"
+    },
+    {
+    "title": "Curso Profesional de Backend",
+    "progress": "100.0",
+    "url": "http://codigofacilito.com/courses/backend-profesional"
+    },
+    {
+    "title": "Curso Profesional de JavaScript",
+    "progress": "1.0",
+    "url": "http://codigofacilito.com/courses/javascript-profesional"
+    },
+    {
+    "title": "Crea un sitio personal con Gatsby",
+    "progress": "46.0",
+    "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+    },
+    {
+    "title": "Curso para desarrollar servicios web REST con Nodejs",
+    "progress": "1.0",
+    "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+    }
+    ],
+    "finished_courses": [
+    {
+    "title": "Curso Profesional de Backend",
+    "url": "http://codigofacilito.com/courses/backend-profesional"
+    }
+    ]
+    },
+    "errors": [ ]
+    }

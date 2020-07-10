@@ -1,0 +1,11 @@
+{
+    "slug": "online",
+    "title": "cursos en linea",
+    "description": "cursos finalizados en plataformas",
+    "items": [
+        {
+            "name": "curso de backend",
+            "url": "http://codigofacilito.com/courses/backend-profesional"
+        }
+    ]
+}
