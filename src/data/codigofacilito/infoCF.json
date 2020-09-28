@@ -3,11 +3,21 @@
     "email": "dpincheira92@gmail.com",
     "username": "dpincheira92",
     "certificates": [
-    {
-    "score": 9,
-    "code": "d7c51685-1272-42df-83ce-e4c6649c3916",
-    "title": "Curso Profesional de Backend"
-    }
+        {
+            "score": 9,
+            "code": "d7c51685-1272-42df-83ce-e4c6649c3916",
+            "title": "Curso Profesional de Backend"
+        },
+        {
+            "score": 9,
+            "code": "",
+            "title": "Curso Profesional de React"
+        },
+        {
+            "score": 9,
+            "code": "",
+            "title": "Curso de Gatsby"
+        }
     ],
     "articles": [ ],
     "courses": [

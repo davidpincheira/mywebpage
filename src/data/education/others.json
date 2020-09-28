@@ -1,12 +1,25 @@
 {
-    "slug": "others",
-    "title": "Talleres, Diplomas y conferencias en las que nunca participe",
-    "description": "Otros logros academicos",
+    "slug": "experience",
+    "title": "Experiencia de trabajo",
+    "description": "Experiencias de trabajo y actividades",
     "items": [
         {
-            "name": "TOEFL",
-            "degree": "en tus sueños",
-            "score": "640"
+            "name": "Lemmonet",
+            "title": "Desarrollador web fullstack",
+            "inicio": "agosto 2019",
+            "fin": "agosto 2020"
+        },
+        {
+            "name": "CNP Seguros",
+            "title": "Analista Funcional",
+            "inicio": "mayo 2019",
+            "fin": "agosto 2019"
+        },
+        {
+            "name": "Servicios Computables",
+            "title": "Desarrollador web fullstack",
+            "inicio": "abril 2018",
+            "fin": "mayo 2019"
         }
     ]
 }

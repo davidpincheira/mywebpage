@@ -1,11 +1,31 @@
 {
     "slug": "online",
-    "title": "cursos en linea",
-    "description": "cursos finalizados en plataformas",
+    "title": "Cursos",
+    "description": "Online courses finished ",
     "items": [
         {
-            "name": "curso de backend",
-            "url": "http://codigofacilito.com/courses/backend-profesional"
+            "name": "Curso de Backend",
+            "url": "http://codigofacilito.com/courses/backend-profesional",
+            "note": "90",
+            "platform": "codigofacilito"
+        },
+        {
+            "name": "Curso Profesional de React",
+            "url": "https://codigofacilito.com/cursos/react-profesional",
+            "note": "90",
+            "platform": "codigofacilito"
+        },
+        {
+            "name": "Curso de Gatsby",
+            "url": "https://codigofacilito.com/cursos/sitio-persional-gatsby",
+            "note": "90",
+            "platform": "codigofacilito"
+        },
+        {
+            "name": "Scrum Foundations Professional Certificate ",
+            "url": "https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-spanish",
+            "note": "75",
+            "platform": "certiprof"
         }
     ]
 }
