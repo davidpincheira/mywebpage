@@ -10,5 +10,5 @@ export default () => <div>
   <About />
   <EdNav />
   <Repos />
-  {/* <CodigoFacilito /> */}
+  <CodigoFacilito />
 </div>
