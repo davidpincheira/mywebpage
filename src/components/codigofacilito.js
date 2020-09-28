@@ -3,9 +3,9 @@ var req = require.context("../img/iconos", false, /.*\.svg$/);
 
 export default () => {
   return (   
-        <div className="container mx-auto p-16 max-w-6xl">
+        <div className=" mx-auto p-16">
           <header className="text-center">
-              <h2 className="text-3xl font-bold mb-8">Tecnologias utilizadas</h2>
+              <h2 className="text-3xl font-bold mb-8">Tecnologías utilizadas</h2>
           </header>
           <div className="flex flex-row shadow mb-8">
           {

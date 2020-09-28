@@ -17,7 +17,7 @@ export default (props)=>{
 
     return(
         <div className="max-w-4xl mx-auto mt-20 ">
-            <h2 className="text-3xl font-bold text-center">Education</h2>
+            <h2 className="text-3xl font-bold text-center">Educación</h2>
             <nav className="flex justify-center mt-8 ">
                 {
                     data.allEducationJson.edges.map((element, index)=>{
