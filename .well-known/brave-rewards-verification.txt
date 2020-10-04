@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: keen-davinci-854e86.netlify.app
+Token: 14a68ba80c18e5e1e1c3ca0d777698511e615595efb7cecf7825654e28dc3034
