@@ -16,7 +16,6 @@
   "dependencies": {
     "gatsby": "^2.23.10",
     "gatsby-plugin-postcss": "^2.3.6",
-    "gatsby-plugin-verify-brave": "^1.0.5",
     "gatsby-source-filesystem": "^2.3.18",
     "gatsby-transformer-json": "^2.4.10",
     "react": "^16.12.0",
