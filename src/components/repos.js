@@ -44,7 +44,7 @@ export default () => {
     return (
         <div className="max-w-4xl mx-auto mt-10">
             <header className="text-center">
-                <h2 className="text-3xl font-bold">Projectos en Github</h2>
+                <h2 className="text-3xl font-bold mb-4">Projectos en Github</h2>
             </header>
             <ul className="repos-list">
                 {
