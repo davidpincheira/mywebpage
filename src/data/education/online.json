@@ -26,6 +26,18 @@
             "url": "https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-spanish",
             "note": "75",
             "platform": "certiprof"
+        },
+        {
+            "name": "Node, the big picture ",
+            "url": "https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents",
+            "note": "--",
+            "platform": "Pluralsight"
+        },
+        {
+            "name": "Curso de Desarrollo de Dapps / en curso",
+            "url": "--",
+            "note": "--",
+            "platform": "Acamica"
         }
     ]
 }

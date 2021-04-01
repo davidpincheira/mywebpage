@@ -4,28 +4,22 @@
     "description": "Experiencias de trabajo y actividades",
     "items": [
         {
+            "name": "Digital Brainly",
+            "title": "Desarrollador mobile",
+            "inicio": "enero 2020",
+            "fin": "actualidad"
+        },
+        {
             "name": "Lemmonet",
             "title": "Desarrollador web fullstack",
             "inicio": "agosto 2019",
             "fin": "agosto 2020"
         },
         {
-            "name": "CNP Seguros",
-            "title": "Analista Funcional",
-            "inicio": "mayo 2019",
-            "fin": "agosto 2019"
-        },
-        {
-            "name": "Centrum Transgenia",
-            "title": "Principal Software Architect",
-            "inicio": "mayo 2019",
-            "fin": "diciembre 2019"
-        },
-        {
             "name": "Servicios Computables",
             "title": "Desarrollador web fullstack",
             "inicio": "abril 2018",
-            "fin": "mayo 2019"
+            "fin": "julio 2019"
         }
     ]
 }
