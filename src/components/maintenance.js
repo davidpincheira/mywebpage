@@ -1,14 +1,12 @@
 import React from "react";
-import illustration from "../img/undraw_maintenance_re_59vn.svg"
 import downloadFile from '../data/archivos/CV_DavidPincheira.pdf' 
 
 export default () => (
-  <header className="bg-gray-100">
+  <header className="flex items-center justify-center min-h-screen bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">
     <div className="container mx-auto p-16 max-w-6xl">
       <div className="md:flex md:justify-center items-center flex-none sm:flex-1 md:flex-auto ">
         <div className="flex-1 md:text-left text-center">
-          <h1 className="font-bold text-blue-900 text-5xl">Sitio en mantenimiento </h1>
-          <p className="text-blue-800 text-xl text-opacity-75">Pero podes descargar mi cv aca abajo</p>
+          <h1 className="text-5xl font-extrabold text-gray-400 mb-6">Sitio en mantenimiento </h1>
         <div className="mx-auto p-10">
             <header className="text-left">
                 <a className="bg-gray-400 hover:bg-gray-500 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center" href={downloadFile} download>
@@ -18,7 +16,6 @@ export default () => (
             </header>
           </div>
         </div>
-        <img src={illustration} alt="Hombre mostrando info" style={{height:"300px"}}></img>
       </div>
     </div>
   </header>
